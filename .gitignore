@@ -1,2 +1,6 @@
 /Core/node_modules
 /Core/bower_components
+/Public/assets/css/main.css
+/Public/assets/js/app.min.js
+/Public/assets/js/vendor.min.js
+
